@@ -29,3 +29,5 @@ TL - Transfer Learning
      - https://arxiv.org/pdf/1701.08734.pdf (TL)
  - Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts
      - https://anthology.aclweb.org/C/C14/C14-1008.pdf
+ - Colour correction
+     - http://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf
